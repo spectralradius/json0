@@ -1,3 +1,7 @@
 *.swp
 *.DS_Store
 node_modules
+
+# IDEA project files
+*.iml
+.idea
